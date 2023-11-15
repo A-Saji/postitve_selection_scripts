@@ -1,0 +1,18 @@
+Perl scripts written by Vivek Thakur.
+Before using make sure you have installed, muscle or clustalw or hmmer for translatorX.
+Create and store the scripts in a single directory for easy use. 
+
+Download and install RaXML from "https://cme.h-its.org/exelixis/web/software/raxml/" and cite them when using it. 
+"RAxML Version 8: A tool for Phylogenetic Analysis and Post-Analysis of Large Phylogenies". In Bioinformatics, 2014, open access.
+
+Similarly DOWNLOAD TranslatorX from "http://translatorx.co.uk/", and cite it when using it 
+Citation: Abascal F, Zardoya R, Telford MJ (2010)
+TranslatorX: multiple alignment of nucleotide sequences guided by amino acid translations
+Nucleic Acids Res. 38:W7-13.	 
+
+Download paml from "http://abacus.gene.ucl.ac.uk/software/paml.html" cite them if you're using it as
+Ziheng Yang, PAML 4: Phylogenetic Analysis by Maximum Likelihood, Molecular Biology and Evolution, Volume 24, Issue 8, August 2007, Pages 1586–1591, https://doi.org/10.1093/molbev/msm088
+
+
+
+
